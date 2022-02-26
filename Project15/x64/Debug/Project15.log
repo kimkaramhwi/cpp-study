@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\ccc\Project15\소스.cpp(3,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\ccc\Project15\소스.cpp(9,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\ccc\Project15\소스.cpp(9,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+  Project15.vcxproj -> C:\ccc\Project15\x64\Debug\Project15.exe
