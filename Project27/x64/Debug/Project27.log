@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\ccc\Project27\소스.cpp(3,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\ccc\Project27\소스.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\ccc\Project27\소스.cpp(26,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\ccc\Project27\소스.cpp(34,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\ccc\Project27\소스.cpp(34,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 2('int *' 형식)과(와) 충돌합니다.
+  Project27.vcxproj -> C:\ccc\Project27\x64\Debug\Project27.exe
